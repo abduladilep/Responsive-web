@@ -1,0 +1,45 @@
+  .carousel-caption {
+        background:rgba(0,0,0, 0.5) ;
+        border-top: 25px solid #007bff;
+        overflow: hidden;
+    }
+ 
+.icon{
+    width: 2em; 
+
+}
+ 
+ .mid{
+  height:20em;
+  overflow: hidden;
+  
+  
+ }
+ .text{
+  background-color: rgba(241, 238, 238, 0.7);
+ }
+ .image{
+  width: 22em;
+ }
+ .col-md-4 :hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  opacity: 1;
+ 
+ }
+.image1{
+    width: 8em;
+}
+.middle{
+    background-color: rgba(241, 238, 238, 0.7);
+    height: 30;
+    
+}
+.image-text{
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0, 0.5);
+    border-top: 6px solid cornflowerblue ;
+} 
